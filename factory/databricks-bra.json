@@ -1,0 +1,9 @@
+{
+	"name": "databricks-bra",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4797033a-11b8-458f-9e25-5552342d4925",
+		"tenantId": "1b620a2e-e73d-439a-9b20-32615163d557"
+	}
+}
