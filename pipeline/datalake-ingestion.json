@@ -1,0 +1,7 @@
+{
+	"name": "datalake-ingestion",
+	"properties": {
+		"description": "adding datalake",
+		"annotations": []
+	}
+}
